@@ -1,0 +1,5 @@
+cn\mintair\springcloud\service\impl\PaymentServiceImpl.class
+cn\mintair\springcloud\dao\PaymentDao.class
+cn\mintair\springcloud\PaymentMain8002.class
+cn\mintair\springcloud\controller\PaymentController.class
+cn\mintair\springcloud\service\PaymentService.class
