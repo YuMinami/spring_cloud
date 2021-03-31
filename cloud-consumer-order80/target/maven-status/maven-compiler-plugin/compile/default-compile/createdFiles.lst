@@ -1,3 +1,6 @@
-cn\mintair\springcloud\OrderMain80.class
 cn\mintair\springcloud\config\ApplicationContextConfig.class
+cn\mintair\springcloud\lb\MyLB.class
+cn\mintair\springcloud\OrderMain80.class
 cn\mintair\springcloud\controller\OrderController.class
+cn\mintair\myrule\MySelfRule.class
+cn\mintair\springcloud\lb\LoadBalancer.class

@@ -1,3 +1,6 @@
 E:\java\code\vue\springcloud\cloud-consumer-order80\src\main\java\cn\mintair\springcloud\config\ApplicationContextConfig.java
+E:\java\code\vue\springcloud\cloud-consumer-order80\src\main\java\cn\mintair\springcloud\lb\LoadBalancer.java
+E:\java\code\vue\springcloud\cloud-consumer-order80\src\main\java\cn\mintair\springcloud\lb\MyLB.java
 E:\java\code\vue\springcloud\cloud-consumer-order80\src\main\java\cn\mintair\springcloud\controller\OrderController.java
+E:\java\code\vue\springcloud\cloud-consumer-order80\src\main\java\cn\mintair\myrule\MySelfRule.java
 E:\java\code\vue\springcloud\cloud-consumer-order80\src\main\java\cn\mintair\springcloud\OrderMain80.java

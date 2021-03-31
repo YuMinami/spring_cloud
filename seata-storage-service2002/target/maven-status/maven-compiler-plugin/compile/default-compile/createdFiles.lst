@@ -1,0 +1,9 @@
+cn\mintair\springcloud\service\StorageService.class
+cn\mintair\springcloud\domain\Storage.class
+cn\mintair\springcloud\domain\CommonResult.class
+cn\mintair\springcloud\StorageService2002.class
+cn\mintair\springcloud\config\DataSourceProxyConfig.class
+cn\mintair\springcloud\controller\StorageController.class
+cn\mintair\springcloud\config\MyBatisConfig.class
+cn\mintair\springcloud\dao\StorageDao.class
+cn\mintair\springcloud\service\impl\StorageServiceImpl.class

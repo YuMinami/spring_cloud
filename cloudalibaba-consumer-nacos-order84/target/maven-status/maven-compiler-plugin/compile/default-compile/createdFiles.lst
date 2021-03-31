@@ -1,0 +1,5 @@
+cn\mintair\springcloud\controller\CircleBreakerController.class
+cn\mintair\springcloud\OrderNacosMain84.class
+cn\mintair\springcloud\service\PaymentFallbackService.class
+cn\mintair\springcloud\config\ApplicationContextConfig.class
+cn\mintair\springcloud\service\PaymentService.class

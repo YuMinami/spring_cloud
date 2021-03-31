@@ -1,0 +1,4 @@
+cn\mintair\springcloud\service\IMessageProvider.class
+cn\mintair\springcloud\service\impl\MessageProviderImpl.class
+cn\mintair\springcloud\StreamMQMain8801.class
+cn\mintair\springcloud\controller\SendMessageController.class

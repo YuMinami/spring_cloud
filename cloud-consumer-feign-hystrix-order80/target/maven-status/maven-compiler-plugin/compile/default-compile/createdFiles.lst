@@ -1,0 +1,4 @@
+cn\mintair\springcloud\service\PaymentFallbackServiceImpl.class
+cn\mintair\springcloud\controller\OrderHystirxController.class
+cn\mintair\springcloud\OrderHystrixMain80.class
+cn\mintair\springcloud\service\PaymentHystrixService.class
